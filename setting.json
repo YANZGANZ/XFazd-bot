@@ -1,10 +1,10 @@
 {
 	"sesionName": "fazd",
-	"botName": "Fazd-bot",
+	"botName": "𝒀𝑨𝑵𝒁-bot",
 	"antiDelete": true,
 	"autoRead": true,
 	"antiSpam": true,
-	"pathImg": "./media/Fazd.jpg",
-	"ArdyKey": "YourApikey",
-        "imgUrl": "https://i.ibb.co/fkqy1XK/Fazd.jpg"
+	"pathImg": "https://telegra.ph/file/2a7dd6ac0f2f1894ca007.jpg",
+	"ArdyKey": "26126a44bd49f52ef4758671",
+        "imgUrl": "https://telegra.ph/file/cb0fd470d7d332858864e.jpg"
 }
